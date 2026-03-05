@@ -1,16 +1,60 @@
-# meal_recipe_app
+# 🍴 Meal Recipe App 🍴
+The Meal Recipe App is a comprehensive cooking companion that provides users with a vast collection of delicious meal recipes, categorized for easy browsing. The app allows users to explore different meal categories, view detailed recipe information, and mark their favorite meals for quick access. With a user-friendly interface ,this app is perfect for cooking enthusiasts and beginners alike.
 
-A new Flutter project.
+## 🚀 Features
+* Explore various meal categories
+* View detailed recipe information, including ingredients, cooking instructions,
+* Mark favorite meals for quick access and easy browsing
+* Search for specific meals or ingredients
+* Beautiful and intuitive user interface
 
-## Getting Started
+## 🛠️ Tech Stack
+* Frontend: Flutter
+* Backend: local data storage
+* Database: local data storage
+* State Management: Riverpod
+* Dependencies:
+	+ flutter
+	+ cupertino_icons
+	+ google_fonts
+	+ flutter_riverpod
+	+ animated_text_kit
+	+ flutter_test
+	+ flutter_lints
 
-This project is a starting point for a Flutter application.
+## 📦 Installation
+To install the Meal Recipe App, follow these steps:
+1. Clone the repository using `git clone`
+2. Navigate to the project directory using `cd meal_recipe_app`
+3. Run `flutter pub get` to install dependencies
+4. Run `flutter run` to launch the app on a connected device or emulator
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Usage
+To use the Meal Recipe App, follow these steps:
+1. Launch the app on a connected device or emulator
+2. Browse through the meal categories using the bottom navigation bar
+3. Tap on a meal category to view a list of meals
+4. Tap on a meal to view detailed recipe information
+5. Mark favorite meals by tapping the heart icon
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+<img width="1080" height="2400" alt="Screenshot_20260305_093900" src="https://github.com/user-attachments/assets/a144ac95-2249-4dac-a054-8532b9efd46c" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## 🤝 Contributing
+To contribute to the Meal Recipe App, please follow these steps:
+1. Fork the repository using `git fork`
+2. Create a new branch using `git branch`
+3. Make changes and commit using `git commit`
+4. Push changes to the remote repository using `git push`
+5. Create a pull request to merge changes into the main branch
+
+## 📝 License
+The Meal Recipe App is licensed under the MIT License.
+
+## 📬 Contact
+For any questions or concerns, please contact us at sureshm.student@gmail.com.
+
+## 💖 Thanks Message
+This project was built with love and care, and we hope you enjoy using it! 🍴
