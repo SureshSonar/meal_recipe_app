@@ -38,7 +38,13 @@ To use the Meal Recipe App, follow these steps:
 5. Mark favorite meals by tapping the heart icon
 
 ## 📸 Screenshots
-<img width="1080" height="2400" alt="Screenshot_20260305_093900" src="https://github.com/user-attachments/assets/a144ac95-2249-4dac-a054-8532b9efd46c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a70738a5-417e-40be-86a4-9be517a6bc3a" width="260"/>
+  <img src="https://github.com/user-attachments/assets/8a05cd74-b789-43e7-a943-18a75848cd27" width="260"/>
+  <img src="https://github.com/user-attachments/assets/2835edb0-6468-4e23-a0fc-5e048e7e17ba" width="260"/>
+</p>
+
+
 
 
 
