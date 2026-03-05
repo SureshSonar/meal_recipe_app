@@ -45,7 +45,7 @@ To use the Meal Recipe App, follow these steps:
 </p>
 
 <p align="center">
-  Home Screen • Weather Details • Search City
+  • Home Screen			• Meal Details 			• Favourite Meals Screen
 </p>
 
 
