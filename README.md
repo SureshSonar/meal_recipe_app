@@ -44,6 +44,10 @@ To use the Meal Recipe App, follow these steps:
   <img src="https://github.com/user-attachments/assets/2835edb0-6468-4e23-a0fc-5e048e7e17ba" width="260"/>
 </p>
 
+<p align="center">
+  Home Screen • Weather Details • Search City
+</p>
+
 
 
 
